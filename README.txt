@@ -1,17 +1,17 @@
-=== Your Plugin Name ===
-Contributors: WPBeginner
-Tags: wpbeginner, plugin tutorial
+=== Remove website field from comments ===
+Contributors: smlaci
+Tags: anti-spam, comments
 Requires at least: 5.5
-Tested up to: 5.8
+Tested up to: 6.1.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
  
-A WordPress plugin to teach beginners how to write a WordPress plugin. 
+A simple utility plugin to remove the website field from the comments form. 
  
 == Description ==
  
-This simple plugin is part of our beginner's guide to writing a WordPress plugin. 
+A simple solution to discourage spam comments. This plugin removes the website field from the default WordPress comments form. There's no settings, just activate the plugin, and clear your cache. 
  
 == Installation ==
  
@@ -22,15 +22,13 @@ This simple plugin is part of our beginner's guide to writing a WordPress plugin
  
 = How do I use this plugin? =
  
-Answer to the question
+Just install and activate.
  
 = How to uninstall the plugin? =
  
 Simply deactivate and delete the plugin. 
  
 == Screenshots ==
-1. Description of the first screenshot. 
-1. Description of the second screenshot. 
  
 == Changelog ==
 = 1.0 =
